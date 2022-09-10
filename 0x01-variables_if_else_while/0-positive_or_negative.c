@@ -1,12 +1,14 @@
 #include <stdlib.h>
-#include <time>
+#include <time.h>
 #include <stdio.h>
 
 /**
- *main -> assign a random numer to the variable n each time it is executed
+ **main -> assign a random numer to the variable n each time it is executed
  *
- *and print the last digit of the number stored in the variable n
- *Return: always 0 (succsse)
+ **and print the last digit of the number stored in the variable n
+ *
+ **Return: Always 0 (Success)
+ *
  */
 
 int main(void)
@@ -14,15 +16,15 @@ int main(void)
 int n;
 
 srand(time(0));
-n = rand()  RAND_MAX / 2;
-
+n = rand() - RAND_MAX / 2;
 if (n > 0)
-printf("%d is positive\n", n);
+	printf("%d is positive\n", n);
 if (n == 0)
-printf("%d is zero\n", n);
+	printf("%d is zero\n", n);
 if (n < 0)
 {
-printf("%d is negetive\n", n);
+      	printf("%d is negative\n", n);
 }
+
 return (0);
 }
