@@ -7,7 +7,7 @@
  *
  * and print the last digit of the number stored in the variable n
  * Return: always 0 (sucess)
- */
+*/
 
 int main(void)
 {
@@ -15,12 +15,15 @@ int main(void)
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
-
 	if (n > 0)
-		ptintf("%d is positve\n", n);
-	if (n == 0)
+	{
+		printf("%d is postive\n", n);
+	}
+	else if (n == 0)
+	{
 		printf("%d is zero\n", n);
-	if (n < 0)
+	}
+	else if (n < 0)
 	{
 		printf("%d is negetive\n", n);
 	}
