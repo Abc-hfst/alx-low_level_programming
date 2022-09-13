@@ -6,6 +6,7 @@
  * Return: always 0 (sucec)
  */
 
+int main(void)
 {
 	_putchar('_');
 	_putchar('p');
