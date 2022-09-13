@@ -5,16 +5,18 @@
  * description: folloewd by newline
  * Return: always 0
  */
-
 void print_alphabet_x10(void)
 {
-	char c, i;
+	int i;
+	char c;
 
-	for (i = 0; i <= 9; i++)
+	for (i = 0; i < 10; i++)
 	{
-		for (c = 'a'; c <= 'z'; c++)
+		c = 'a';
+		while (c <= 'z')
 		{
 			_putchar(c);
+			c++;
 		}
 		_putchar('\n');
 	}
