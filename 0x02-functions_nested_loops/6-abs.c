@@ -1,17 +1,11 @@
-#include "main."
+#include "main.h"
 
 /**
- * _abs - print the absolute value of the integer
- * @c: is the int will be for argument of function
- * Retun 0
+ *_abs - prints the absolute value of an integer
+ *@i: The integer to be compute with
+ *Return: The absolute value of i
  */
-
-int _abs(int c)
+int _abs(int i)
 {
-	if (c > 0 || c == 0)
-	{
-	return (c);
-	}
-	else
-	return (c * -1);
+	return (i < 0 ? i * -1 : i);
 }
