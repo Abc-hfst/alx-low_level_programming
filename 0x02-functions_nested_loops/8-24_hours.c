@@ -1,69 +1,37 @@
 #include "main.h"
-
 /**
- *jack_bauer - prints each minute of the day
- *
- *Return: Always 0 (success)
- */
+* jack_bauer -> prints 24 hours
+*/
 void jack_bauer(void)
 {
-	int min, hour;
-
-	for (hour = 0; hour <= 23; hour++)
-	{
-	for (min = 0; min <= 59; min++)
-	{
-	_putchar((hour / 10) + '0');
-	_putchar((hour % 10) + '0');
-	_putchar(':');
-	_putchar((min / 10) + '0');
-	_putchar((min % 10) + '0');
-	_putchar(10);
-}
-}
-}
-
-/**
- * jack_bauer - prints every minute of the day
- * Description: prints every minute of the day
- * Return: void
- */
-void jack_bauer(void)
+int i, j;
+for (i = 0; i < 24; i++)
 {
-	int hours_tens, hours_ones, minutes_tens, minutes_ones, hours_max;
-
-	hours_max = 58;
-	hours_tens = '0';
-	while (hours_tens < '3')
-	{
-		if (hours_tens == '2')
-		{
-			hours_max = '4';
-		}
-		hours_ones = '0';
-		while (hours_ones < hours_max)
-		{
-			minutes_tens = '0';
-			while (minutes_tens < '6')
-			{
-				minutes_ones = '0';
-				while (minutes_ones < 58)
-				{
-					_putchar(hours_tens);
-					_putchar(hours_ones);
-					_putchar(':');
-					_putchar(minutes_tens);
-					_putchar(minutes_ones);
-					_putchar('\n');
-					minutes_ones++;
-				}
-				minutes_ones = '0';
-				minutes_tens++;
-			}
-			minutes_tens = '0';
-			hours_ones++;
-		}
-		hours_ones = '0';
-		hours_tens++;
-	}
+for (j = 0; j < 60; j++)
+{
+if (i < 10)
+{
+_putchar('0');
+_putchar(i + '0');
+}
+else if (i >= 10)
+{
+_putchar((i / 10) + '0');
+_putchar((i % 10) + '0');
+}
+if (j < 10)
+{
+_putchar(':');
+_putchar('0');
+_putchar(j + '0');
+}
+else if (j >= 10)
+{
+_putchar(':');
+_putchar((j / 10) + '0');
+_putchar((j % 10) + '0');
+}
+_putchar('\n');
+}
+}
 }
