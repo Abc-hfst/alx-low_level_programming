@@ -5,10 +5,9 @@
  *
  * Return: Always 0 (Success)
  */
-
 int main(void)
 {
-	log n, i;
+	long n, i;
 
 	n = 612852475143;
 	for (i = 2; i < n; i++)
