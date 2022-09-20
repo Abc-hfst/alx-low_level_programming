@@ -1,0 +1,1 @@
+This arrays pointers readme
