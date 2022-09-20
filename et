@@ -1,0 +1,575 @@
+[33mcommit bf1d703642145141611e1e84b912e28b0b9dd420[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: aminurabah@yahoo.com <aminurabah@yahoo.com>
+Date:   Thu Sep 15 15:07:18 2022 -0700
+
+    devog fixed
+
+[33mcommit 412674b35ae93e85724a71a1dcb2d66f25f651be[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Thu Sep 15 22:58:07 2022 +0100
+
+    Update 101-print_number.c
+
+[33mcommit d470809f69a42f9d6db129d8e5449b8a2251b8e5[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Thu Sep 15 22:56:39 2022 +0100
+
+    Update 100-prime_factor.c
+
+[33mcommit 0c468307bc09d211f814012319388046f1847240[m
+Author: aminurabah@yahoo.com <aminurabah@yahoo.com>
+Date:   Thu Sep 15 14:54:33 2022 -0700
+
+    advance more function task
+
+[33mcommit bd33dd050390455563a0879598410bad15281161[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Thu Sep 15 22:32:48 2022 +0100
+
+    Update 9-fizz_buzz.c
+
+[33mcommit 4452b46577796327606c7d5adb29515c2964b61f[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Thu Sep 15 18:44:24 2022 +0100
+
+    Update 10-print_triangle.c
+
+[33mcommit 4dfe189a7109ce201af95744b1e5cf9180a4bf9f[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Thu Sep 15 18:43:30 2022 +0100
+
+    Update 9-fizz_buzz.c
+
+[33mcommit 667855ae908726a94a8902197b3657c19f711429[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Thu Sep 15 18:42:18 2022 +0100
+
+    Update 8-print_square.c
+
+[33mcommit 1bbd04993b7e232b68254eace4166b37c75632c8[m
+Author: aminurabah@yahoo.com <aminurabah@yahoo.com>
+Date:   Thu Sep 15 10:40:26 2022 -0700
+
+    continuetion of more function
+
+[33mcommit ebd63b83c84cf2286d329406695e3a140bb6ad4f[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Thu Sep 15 18:07:32 2022 +0100
+
+    Update 0-isupper.c
+
+[33mcommit 43da69736519554c6bef9c75302ccde3ba0aeb2c[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Thu Sep 15 18:06:26 2022 +0100
+
+    Update 2-mul.c
+
+[33mcommit cecbdc38e15458db1c11e4edcb06b186b3f9f143[m
+Author: aminurabah@yahoo.com <aminurabah@yahoo.com>
+Date:   Thu Sep 15 10:03:09 2022 -0700
+
+    more function loop
+
+[33mcommit 51b783cc2bf88f25229653a53bbb13a87438936b[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Wed Sep 14 16:31:15 2022 +0100
+
+    Update 0-main.c
+
+[33mcommit 43ada63a71a7745c33b5755a31417134c96fc760[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Wed Sep 14 16:28:51 2022 +0100
+
+    Update 1-main.c
+
+[33mcommit d20224ce3ba6b15792b53762371110b5df14ca35[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Wed Sep 14 16:24:42 2022 +0100
+
+    Update 2-largest_number.c
+
+[33mcommit eb4dd4a5b255d1953007df22c788ac7802220aed[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Wed Sep 14 16:22:39 2022 +0100
+
+    Update 3-print_remaining_days.c
+
+[33mcommit ddf8cc2d1a8792a344830137539b0ffed98e2b98[m
+Author: aminurabah@yahoo.com <aminurabah@yahoo.com>
+Date:   Wed Sep 14 08:21:26 2022 -0700
+
+    debog
+
+[33mcommit 3e7e01b1ce9e3119700cf75a5772a83b9b81cf44[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Wed Sep 14 15:20:47 2022 +0100
+
+    Update 11-print_to_98.c
+
+[33mcommit 7a30c89e3368702668ac32a86d4cb4383bb0193e[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Wed Sep 14 15:19:06 2022 +0100
+
+    Update 10-add.c
+
+[33mcommit 11c806147fffc6fc2f8d62b145231d420d066a44[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Wed Sep 14 15:17:34 2022 +0100
+
+    Update 9-times_table.c
+
+[33mcommit 44ad840de5fc43da70086003d682aca245a91f21[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Wed Sep 14 15:15:28 2022 +0100
+
+    Update 8-24_hours.c
+
+[33mcommit 5d68d3bf5a2a8cd27dd1ea1f2aade8731accd580[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Wed Sep 14 14:48:12 2022 +0100
+
+    Update 11-print_to_98.c
+
+[33mcommit e5b78274aa5beed7e60e996ab6c0ce556e1ff801[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Wed Sep 14 14:47:18 2022 +0100
+
+    Update 10-add.c
+
+[33mcommit 8e77043d420d5a8f024c4db1adfa1a75d40824a7[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Wed Sep 14 14:46:25 2022 +0100
+
+    Update 1-alphabet.c
+
+[33mcommit cee996f9195a85332d472608c0b20c2aff0c633e[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Wed Sep 14 14:45:26 2022 +0100
+
+    Update 2-print_alphabet_x10.c
+
+[33mcommit b80e29ad7394428602076ef75ee9672319d58c1f[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Wed Sep 14 14:44:24 2022 +0100
+
+    Update 3-islower.c
+
+[33mcommit 73c5c0a9056ac7e2316bd367553bc483423e2001[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Wed Sep 14 14:42:54 2022 +0100
+
+    Update 4-isalpha.c
+
+[33mcommit 040e2b1f2f7e4a131a3374cce8c40b7b0c72c634[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Wed Sep 14 14:41:46 2022 +0100
+
+    Update 5-sign.c
+
+[33mcommit 9597eb8041b86778b8e1c5c601dca8e2f578dfb9[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Wed Sep 14 14:40:43 2022 +0100
+
+    Update 6-abs.c
+
+[33mcommit e71d83ceed6e75c1fe145f0ed7b25f25f57eb476[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Wed Sep 14 14:39:39 2022 +0100
+
+    Update 7-print_last_digit.c
+
+[33mcommit e1bd1dd97a4cf426c47b37b31bb6983ee2879029[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Wed Sep 14 14:38:00 2022 +0100
+
+    Update 8-24_hours.c
+
+[33mcommit 3cbf9bfe9ec603de0609d38b705c6e30a8e5a655[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Wed Sep 14 14:35:17 2022 +0100
+
+    Update 9-times_table.c
+
+[33mcommit d75631e260d799b52bd274c4ce9b35bc4a321259[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Wed Sep 14 14:33:33 2022 +0100
+
+    Update _putchar
+
+[33mcommit c0aa2ee1e4599e3a8ec7aa22dbe705bf88da6b58[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Wed Sep 14 14:32:19 2022 +0100
+
+    Create main.h
+
+[33mcommit f9ee109d4411f6b613870b3e2a19b1e8c57ed97e[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Tue Sep 13 22:57:52 2022 +0100
+
+    Update 1-alphabet.c
+
+[33mcommit fdf399d1d45afeb7ed9f17f94758fde070af5a6d[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Tue Sep 13 22:56:50 2022 +0100
+
+    Update 11-print_to_98.c
+
+[33mcommit 3a8def799c9ad32c7241950f577f29ade6937ea0[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Tue Sep 13 22:54:48 2022 +0100
+
+    Update 10-add.c
+
+[33mcommit 15327f78721ebeb7db2520e297508524b257205f[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Tue Sep 13 22:53:33 2022 +0100
+
+    Update 9-times_table.c
+
+[33mcommit 65630d6138e44f928da49e177f8994be7f1dd900[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Tue Sep 13 22:52:21 2022 +0100
+
+    Update 8-24_hours.c
+
+[33mcommit 1ef9d0611255b1467b669d39e5a4b1695a6c950b[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Tue Sep 13 22:50:56 2022 +0100
+
+    Update 7-print_last_digit.c
+
+[33mcommit 1ef28847792c7b592648e62cfefe2f2270781b77[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Tue Sep 13 22:50:03 2022 +0100
+
+    Update 6-abs.c
+
+[33mcommit bb626bf08f819a2445735ef659c122531270b75b[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Tue Sep 13 22:49:07 2022 +0100
+
+    Update 5-sign.c
+
+[33mcommit eaad80123bd32e0cbfe7b1d75b4a73c396444a87[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Tue Sep 13 22:47:38 2022 +0100
+
+    Update 4-isalpha.c
+
+[33mcommit 8f12f9321f9b01bd20fe232a0a6c5f0929f84c04[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Tue Sep 13 22:46:39 2022 +0100
+
+    Update 3-islower.c
+
+[33mcommit 074ffeeb33dadd2595e5d179bf877343d3141991[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Tue Sep 13 22:45:29 2022 +0100
+
+    Update 2-print_alphabet_x10.c
+
+[33mcommit a88ca2d4bba22030a012edf3ef4f08f8a9872d38[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Tue Sep 13 22:33:32 2022 +0100
+
+    Update 10-add.c
+
+[33mcommit 753569b179f2dead3397f40eb5d936922a1a5c78[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Tue Sep 13 22:32:33 2022 +0100
+
+    Update 11-print_to_98.c
+
+[33mcommit 968961b2b9a49352ca3933bace72fbd6823765ef[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Tue Sep 13 22:31:37 2022 +0100
+
+    Update 6-abs.c
+
+[33mcommit 6a52e77bc569f56dad5300b24566b665b9240877[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Tue Sep 13 22:30:36 2022 +0100
+
+    Update 7-print_last_digit.c
+
+[33mcommit 29d360aff58c0634c93ced016a983b675db49a43[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Tue Sep 13 22:29:30 2022 +0100
+
+    Update 8-24_hours.c
+
+[33mcommit efcbacbee964ee6da05df7bffa0ecd9422c30901[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Tue Sep 13 22:28:41 2022 +0100
+
+    Update 9-times_table.c
+
+[33mcommit 3d53aa5beb409c63f95d888f0e025a3abac53a3c[m
+Author: aminurabah@yahoo.com <aminurabah@yahoo.com>
+Date:   Tue Sep 13 14:27:12 2022 -0700
+
+    asa
+
+[33mcommit fe06997325e2f255c287b6405dec64aaabbb1c1c[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Tue Sep 13 22:24:24 2022 +0100
+
+    Update 5-sign.c
+
+[33mcommit 04015ba4d5b5efc39cd10cd07edcc36044ae9aa2[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Tue Sep 13 22:22:32 2022 +0100
+
+    Update 5-sign.c
+
+[33mcommit 9cfde0ca3782ed8ee155f29fdcadc29e823024d2[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Tue Sep 13 22:19:39 2022 +0100
+
+    Update 4-isalpha.c
+
+[33mcommit 1e72b67e732dfc1bac661d73ad8b37261e6c080c[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Tue Sep 13 22:17:25 2022 +0100
+
+    Update 4-isalpha.c
+
+[33mcommit 80fc7cdb8522b49a14c3b2617b7193f3c3bdc3b0[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Tue Sep 13 22:16:08 2022 +0100
+
+    Update 4-isalpha.c
+
+[33mcommit e63292dd0f5e7f872fa237555e87ae02f8df3f7f[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Tue Sep 13 22:13:39 2022 +0100
+
+    Update 3-islower.c
+
+[33mcommit c32fc891a3ff4c66d1f333c1099e2ccb77929b16[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Tue Sep 13 22:08:12 2022 +0100
+
+    Update 2-print_alphabet_x10.c
+
+[33mcommit 7e5831e9645eb05a07703ad732408a6f8ae8c7a6[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Tue Sep 13 22:03:47 2022 +0100
+
+    Update 2-print_alphabet_x10.c
+
+[33mcommit d2165aa8a65e1905824dac2457c9af6c3b700a2a[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Tue Sep 13 22:02:08 2022 +0100
+
+    Update 2-print_alphabet_x10.c
+
+[33mcommit 9d039474ec4f7173533b33505e0c97185769a61a[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Tue Sep 13 22:00:58 2022 +0100
+
+    Update 2-print_alphabet_x10.c
+
+[33mcommit 44c06286ed8a1235871fe1d36fa39317e5e7bd03[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Tue Sep 13 21:58:07 2022 +0100
+
+    Update 1-alphabet.c
+
+[33mcommit 54dd843a891aae36696331242394f59a363610d2[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Tue Sep 13 21:52:13 2022 +0100
+
+    Update 1-alphabet.c
+
+[33mcommit c3ecafa162aac816a0a6358fbc1a61462a6e02c1[m
+Author: aminurabah@yahoo.com <aminurabah@yahoo.com>
+Date:   Tue Sep 13 13:50:41 2022 -0700
+
+    fix
+
+[33mcommit 53b1223409074f2eb9b392f814e061f82a7e6d12[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Tue Sep 13 21:40:20 2022 +0100
+
+    Update 1-alphabet.c
+
+[33mcommit 0e0bfa0e08decc67c653565f602c9c447f3fa0b0[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Tue Sep 13 21:37:46 2022 +0100
+
+    Update main.h
+
+[33mcommit b4eea34e7154bcbcfbb00ec8e1781e4046a6fae1[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Tue Sep 13 21:36:08 2022 +0100
+
+    Update 1-alphabet.c
+
+[33mcommit 356813a853287bf95d9bd57ba78ff89283e8dde4[m
+Author: aminurabah@yahoo.com <aminurabah@yahoo.com>
+Date:   Tue Sep 13 13:32:38 2022 -0700
+
+    fixed
+
+[33mcommit ea54581a35bf74870ea0e3223c705560de6b2180[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Tue Sep 13 21:07:05 2022 +0100
+
+    Update 0-putchar.c
+
+[33mcommit 89727c1c04bb1d7d5217da85882c2737b9131703[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Tue Sep 13 21:04:10 2022 +0100
+
+    Update 0-putchar.c
+
+[33mcommit 7c59a9c289cf31c83c9bddd39c1b37a9ca2880b4[m
+Author: aminurabah@yahoo.com <aminurabah@yahoo.com>
+Date:   Tue Sep 13 13:01:26 2022 -0700
+
+    fixed
+
+[33mcommit ad8f98f6f83a5cdc9a3905f9d811468324af0672[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Tue Sep 13 20:55:52 2022 +0100
+
+    Update 0-putchar.c
+
+[33mcommit 0525d45cce290f18a94e806d8bf63c7edc2ecce9[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Tue Sep 13 20:52:14 2022 +0100
+
+    Update main.h
+
+[33mcommit 2c2acf4f4debb01bf9c56ffa6b77b69d6188e0f4[m
+Author: aminurabah@yahoo.com <aminurabah@yahoo.com>
+Date:   Tue Sep 13 10:24:58 2022 -0700
+
+    relatives readme
+
+[33mcommit db878e415a8d9e5681363ad07ab9f61864277458[m
+Author: aminurabah@yahoo.com <aminurabah@yahoo.com>
+Date:   Tue Sep 13 10:23:27 2022 -0700
+
+    fuction task
+
+[33mcommit 104e32f3d041d86b9fc8335dd32b3d20dea1c236[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Sun Sep 11 11:14:18 2022 +0100
+
+    Update 0-positive_or_negative.c
+
+[33mcommit de6927976ad67bd66d562df5f0ae15faaf9fd6a3[m
+Author: aminurabah@yahoo.com <aminurabah@yahoo.com>
+Date:   Sun Sep 11 03:13:04 2022 -0700
+
+    last
+
+[33mcommit d08af98324fa513f8935f16f60312d3a7d80be8f[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Sun Sep 11 11:06:16 2022 +0100
+
+    Update 0-positive_or_negative.c
+
+[33mcommit deb6eb7793c67c7db0251e07cfe70dd1920b40b2[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Sun Sep 11 11:05:06 2022 +0100
+
+    Update 0-positive_or_negative.c
+
+[33mcommit ebdfd3fcd4186217ea3c9bc213ca1a00c6628e4c[m
+Author: aminurabah@yahoo.com <aminurabah@yahoo.com>
+Date:   Sun Sep 11 03:02:47 2022 -0700
+
+    fixed
+
+[33mcommit b9fb86944596f31980052fcef9ee8f2994d60e1b[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Sun Sep 11 10:18:43 2022 +0100
+
+    Update 102-print_comb5.c
+
+[33mcommit 6649242dc6edd1588259b3e07889e89c87992a8d[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Sun Sep 11 10:17:50 2022 +0100
+
+    Update 101-print_comb4.c
+
+[33mcommit 889fb7abcbcdb478239ee1f2e53b7e2d9bf35a4b[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Sun Sep 11 10:16:55 2022 +0100
+
+    Update 100-print_comb3.c
+
+[33mcommit 2be69d038d59a47711e82a8a40315f7ce57920c3[m
+Author: aminurabah@yahoo.com <aminurabah@yahoo.com>
+Date:   Sun Sep 11 02:12:18 2022 -0700
+
+    fixed
+
+[33mcommit a3fe3d3e2e10da6783c1ae4124ddb8bfc51966a5[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Sun Sep 11 00:03:09 2022 +0100
+
+    Update 0-positive_or_negative.c
+
+[33mcommit ad3ea95f030dd33cd408f33bb7e95e3b2bcb70be[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Sun Sep 11 00:00:41 2022 +0100
+
+    Update 1-last_digit.c
+
+[33mcommit 9283122aba5e83d0aba1934876401d42722b041e[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Sat Sep 10 23:58:38 2022 +0100
+
+    Update 8-print_base16.c
+
+[33mcommit def987472c493b4e4ce26ef53277f18538793aeb[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Sat Sep 10 23:56:31 2022 +0100
+
+    Update 9-print_comb.c
+
+[33mcommit e9db63222ff8c3f4962c25934c740dc965aea6e5[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Sat Sep 10 23:55:56 2022 +0100
+
+    Delete .9-print_comb.c.swp
+
+[33mcommit f1474235d7f2e5820fc757e0aef90b335b474c03[m
+Author: aminurabah@yahoo.com <aminurabah@yahoo.com>
+Date:   Sat Sep 10 15:47:44 2022 -0700
+
+    done conditonal task
+
+[33mcommit 8ec140da561aac1744caa65ee6399c693aaa2d5d[m
+Author: aminurabah@yahoo.com <aminurabah@yahoo.com>
+Date:   Fri Sep 9 03:15:23 2022 -0700
+
+    betty check
+
+[33mcommit 9bb1d71c492beb9d6e176c609c45ac9480f49133[m
+Author: aminurabah@yahoo.com <aminurabah@yahoo.com>
+Date:   Fri Sep 9 03:12:08 2022 -0700
+
+    done Insha Allah
+
+[33mcommit b3df58b1ffb55e9c11ba5643996ca46fc21bd31c[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Fri Sep 9 10:58:48 2022 +0100
+
+    Update 3-name
+
+[33mcommit b552b0a42a21d56736872bf209fca5d1e5a3c67b[m
+Author: Abc-hfst <111064677+Abc-hfst@users.noreply.github.com>
+Date:   Fri Sep 9 10:54:25 2022 +0100
+
+    Update 6-size.c
+
+[33mcommit 92d5176929a9419a707d38d91772b3ed6e42d51c[m
+Author: aminurabah@yahoo.com <aminurabah@yahoo.com>
+Date:   Fri Sep 9 02:47:17 2022 -0700
+
+    free
