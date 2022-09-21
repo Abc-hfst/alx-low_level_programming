@@ -1,15 +1,25 @@
 #include "main.h"
-#include <string.h>
-
 /**
- * _strncat -> function to append some charx
- * @dest: first param
- * @src: second param
- * @n: 3rd param
- * Return: string
+ * *_strncat - a function thatr concatenate two strings
+ * @dest: copy to
+ * @src: copy from
+ * @n: input of max bytes to be used
+ * Return: Always 0
  */
 char *_strncat(char *dest, char *src, int n)
 {
-	strncat(dest, src, n);
+	int i, co;
+
+	for (i = 0; dest[i] != '\0'; i++)
+	{
+	}
+	for (co = 0; co < n; co++)
+	{
+		dest[i + co] = src[co];
+		if (src[co] == '\0')
+		{
+			co = n;
+		}
+	}
 	return (dest);
 }
