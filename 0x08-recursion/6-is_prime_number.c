@@ -1,30 +1,40 @@
 #include "main.h"
+int prime_checker(int n, int i);
 /**
- * find_root - calculates i**i to check with n
- * @n: base number
- * @i: iterator number
- * Return: i
- */
-int find_root(int n, int i)
+* is_prime_number - execute prime checker
+* @n: input to check
+* Return: always 0
+*/
+int is_prime_number(int n)
 {
-	if (i * i == n)
-		return (i);
-	if (i * i <= n)
-		return (find_root(n, i + 1));
-	else
-		return (-1);
+	if (n <= 1)
+	{
+		return (0);
+	}
+	else if (prime_checker(n, n / 2) > 0)
+	{
+		return (1);
+	}
+	return (0);
 }
 /**
- * _sqrt_recursion - calculates the natural square root of n.
- * @n: base number.
- *
- * Return: the square root of n
+ * prime_checker - checks for the prime
+ * @n: input to check
+ * @i: n / 2, then passes to i - 1, check if greater than 0
+ * Return: prime checker
  */
-int _sqrt_recursion(int n)
+int prime_checker(int n, int i)
 {
-	if (n < 0)
-		return (-1);
-	if (n == 0 || n == 1)
-		return (n);
-	return (find_root(n, 2));
+	if (i == 1)
+	{
+		return (1);
+	}
+	if (n % i == 0)
+	{
+		return (0);
+	}
+	else
+	{
+		return (prime_checker(n, i - 1));
+	}
 }
